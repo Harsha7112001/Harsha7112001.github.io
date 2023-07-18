@@ -2,13 +2,13 @@ body{
     background-color : red;
 }
 .tinku{
-    background-color : cyan;
+    background-color : black;
     width : 300px;
-    height : 500px;
+    height : 300px;
 }
 .name{
     background-color : green;
     float : left;
     width : 40px;
-    height : 400px;
+    height : 40px;
 }
